@@ -17,18 +17,16 @@ The dashboard provides a complete overview of:
 
 The main goal of this project is to help stakeholders and business users:
 
-✅ Track overall revenue and profit growth
-✅ Identify top-performing states, customers, and sub-categories
-✅ Understand category-wise sales distribution
-✅ Analyze customer buying behavior and payment preferences 
-✅ Detect monthly profit fluctuations and loss periods
+* Track overall revenue and profit growth
+* Identify top-performing states, customers, and sub-categories
+* Understand category-wise sales distribution
+* Analyze customer buying behavior and payment preferences 
+* Detect monthly profit fluctuations and loss periods
 
 
 ## 📂 Dataset Information -->>>>
 
-* **File Name:** : 
-- Orders.csv
-- Details.csv
+* **File Name:** :  Orders.csv, Details.csv
 
 - <a href="https://github.com/dimple-shah-au13/E-Commerce-Sales-And-Profit-Dashboard/blob/main/Orders.csv">Orders Dataset</a>
 - <a href="https://github.com/dimple-shah-au13/E-Commerce-Sales-And-Profit-Dashboard/blob/main/Details.csv">Details Dataset</a>
